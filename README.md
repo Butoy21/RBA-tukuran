@@ -22,7 +22,7 @@
 
       <nav class="nav-container">
 
-                      <a href="#backtomainpage" class="nav-link">Back to main page</a>
+                      <a href="https://zdspgc-tukuran-tourist-spots.netlify.app/" class="nav-link">Back to main page</a>
 
           <a href="#home" class="logo">
 
