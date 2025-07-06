@@ -52,12 +52,6 @@
 
                 </li>
 
-                <li class="nav-item">
-
-                    <a href="#developers" class="nav-link">Developers</a>
-
-                </li>
-
             </ul>
 
         </nav>
@@ -258,46 +252,6 @@
 
   <!-- Developers Section -->
 
-        <section id="developers" class="developers">
-
-            <h2 class="section-title"><span>Developers</span></h2>
-
-            <div class="developers-grid">
-
-                <div class="developer-card">
-
-                    <div class="developer-video">
-
-                        <img src="jerryb.jpeg" alt="Img" class="developer-video"> <!-- Put your Own photo here-->
-
-                    </div>
-
-                    <div class="developer-name">Jerry A. Bulfa</div> <!-- Ilagay nyo pangalan nyo dito -->
-
-                    <div style="color: transparent;" class="developer-role"></div>
-
-                    <div class="developer-bio">Photographer</div> <!-- Ilagay nyo role nyo dito kung ano kayo sa grupo -->
-
-                </div>
-
-                <div class="developer-card">
-
-                    <div class="developer-video">
-
-                        <img src="CrsmieJ.jpeg" alt="Img" class="developer-video"> <!-- Put your Own photo here-->
-
-                    </div>
-
-                    <div class="developer-name">Crismie V. Jumamoy</div> <!-- Ilagay nyo pangalan nyo dito -->
-
-                    <div style="color: transparent;" class="developer-role"></div>
-
-                    <div class="developer-bio">Web Developer</div>  <!-- Ilagay nyo role nyo dito kung ano kayo sa grupo -->
-
-            </div>
-
-        </section>
-
   
 
         <!-- Footer -->
@@ -317,8 +271,6 @@
                     <li><a href="#destination">Facilities</a></li>
 
                     <li><a href="#gallery">Gallery</a></li>
-
-                    <li><a href="#developers">Developers</a></li>
 
                 </ul>
 
